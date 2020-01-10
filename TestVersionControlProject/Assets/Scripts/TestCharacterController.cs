@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TestCharacterController : MonoBehaviour
 {
-    public string charName = "ZODIAC";
+    public string charName = "ZODIAC THE G";
 
     public int maxHealth = 1337;
 
